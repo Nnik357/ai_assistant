@@ -3,7 +3,7 @@
 
 Ссылка на проект: @DveriNov_bot
 
-
+![screenshot 1](https://github.com/Nnik357/ai_assistant/blob/main/%D0%A2%D0%B5%D1%81%D1%82_2.JPG?raw=true)
 
 
 ## Описание проекта
